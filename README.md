@@ -1,5 +1,7 @@
 # Image-Histogram-and-image-Histogram-Equalization
 ****
-1. Image histogram
-2. Histogram Equalization
+1. Image Intensity Transformation
+2. Image Histogram
+3. Image Histograms for float-Valued Images
+4. Histogram Equalization
 -------
