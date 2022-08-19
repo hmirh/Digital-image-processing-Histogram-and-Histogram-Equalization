@@ -1,4 +1,4 @@
-# Image-Histogram-and-image-Histogram-Equalization
+# Image Histogram and Image Histogram Equalization
 ****
 1. Image Intensity Transformation
 2. Image Histogram
